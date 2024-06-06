@@ -2,8 +2,9 @@
 student epitech 
 
 ## 🌐 Socials:
-- ✉️  Email (personal)   : hoarauraphael3@gmail.com
+-[ ✉️  Email (personal)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)   : hoarauraphael3@gmail.com
 - ✉️  Email (pro) : raphael.hoarau@epitech.eu
+- 💼 Linkedin           : [mattis-dalleau](https://www.linkedin.com/in/mattis-dalleau/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/raphael-hoarau-2146772a3/) 
 
 # 💻 Tech Stack:
